@@ -1,5 +1,5 @@
 # Mon premier dépôt Git
-## Choses que je dois retenir:
+## Choses que je dois absolument retenir:
 - git add
 - git commit
 - git status
@@ -7,3 +7,5 @@
 - git push
 - git pull
 - git log
+- git merge
+- git branch
